@@ -34,14 +34,14 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
 @import url("https://xcruxiex.github.io/themes/core/custom-font.css");
 @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css"); /* Radial Status */
 :root {
-  --backgroundColor01: #090809;
-  --backgroundColor02: #090809;
+  --backgroundColor01: #2B2D33;
+  --backgroundColor02: #2B2D33;
   --mainColor: #DB4136;
   --gradientColor01: #DB4237;
   --gradientColor02: #E6BA5C;
 
   /* Better Hljs */
-  --backgroundCode: #090809;
+  --backgroundCode: #2B2D33;
   --backgroundName: rgba(0, 0, 0, .2);
 
   /* Radial Status */
